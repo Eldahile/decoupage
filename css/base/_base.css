@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.75;
+    color: #737373;
+}
+
+h2{
+    font-size: 20px;
+    line-height: 1.25;
+    color:#000000;
+}
+

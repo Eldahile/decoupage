@@ -1,0 +1,6 @@
+.header{
+    height: 600px;
+    background:url(../../img/header.jpg) center top repeat;
+    -webkit-background-size: cover;
+
+}
